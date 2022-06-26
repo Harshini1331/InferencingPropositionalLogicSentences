@@ -1,5 +1,4 @@
-# Inferencing Propositional Logic Sentences
-
+# <p align="center">Inferencing Propositional Logic Sentences</p>
 ## AIM
 
 To develop python code to inference propositional logic sentences to solve Wumpus World problem.
@@ -31,6 +30,9 @@ Using propositional Logic defines the possibility of agent's next move.
 Using wumpus_kb.ask_if_true() to get the result based on TRUE value.
 
 ## PROGRAM
+#### Developed by
+#### Register Number: 212220230022
+#### Name: Harshini M
 ```python
 from utils import *
 from logic import *
